@@ -36,7 +36,7 @@ html,
 }
 
 .gl {
-  width: 338px;
+  width: 328px;
   height: 388px;
   border: 1px solid rgba(204, 204, 204, 0.301);
   background: rgba(105, 105, 105, 0.342);
@@ -97,9 +97,8 @@ html,
 }
 
 
-media (max-width: 500px) {
+@media (max-width: 650px) {
   .gl {
-    width: 290px;
+    width: 280px;
   }
 }
-
