@@ -95,3 +95,11 @@ html,
   position: relative;
   top: 70px;
 }
+
+
+media (max-width: 500px) {
+  .gl {
+    width: 290px;
+  }
+}
+
